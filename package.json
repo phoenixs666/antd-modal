@@ -1,6 +1,6 @@
 {
   "name": "@phoenixs/antd-modal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
@@ -15,7 +15,6 @@
   },
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
-  "typings": "es/index.d.ts",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
