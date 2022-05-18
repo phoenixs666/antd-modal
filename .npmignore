@@ -1,0 +1,7 @@
+node_modules
+docs
+.umi
+.editorconfig
+.fatherrc.ts
+.prettier*
+.umirc.ts
